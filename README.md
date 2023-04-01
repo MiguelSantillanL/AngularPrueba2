@@ -16,7 +16,7 @@ The code coverage report will be generated in the `coverage` folder.
 The result of my unit tests and code coverage is available in the [coverage](/coverage/) folder.
 
 ![Coverage](/img/coverage.png)
-![Unit tests](/img/UnitTests.png)
+![Unit tests](/img/UnitTest.png)
 
 ## Code scaffolding
 
